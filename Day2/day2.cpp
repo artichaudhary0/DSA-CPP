@@ -37,7 +37,18 @@
             5 : class :
 
             6 : Enumeration  :
-*/
+
+
+        how to write a variable name 
+                1 : var name can start with alphabets( small , captial )
+                2 : always start with small letter
+                3 : use camel case : myAge
+                4 : my_age => snake case
+                5 : name can not start with number
+                6 : you can not use special symbols(char) except (_ underscore) 
+                7 : can not use space in between var name
+     */         
+
 
 #include <iostream>
 using namespace std;
@@ -51,9 +62,7 @@ int main() {
 
     xyz = 4 ;
     // = 421 value => initilization
-
     // int xyz = 24 ; variable declaration with initilization
-
     cout<< xyz <<endl; 
 
     // cout<<endl; 
