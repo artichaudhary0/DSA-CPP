@@ -121,8 +121,6 @@ int main(){
     line 96 : age > 0 && age < 18 true
     line 98 : P("not ele for vote") 
     exit
-    
-    
     */
 
 
