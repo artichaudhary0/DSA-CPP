@@ -5,7 +5,7 @@ using namespace std ;
  if statement.
  if...else ladder.
 
-  > < <= >= == 
+    > < <= >= == 
 
     if statements : true 
     syntax : 
@@ -18,7 +18,11 @@ using namespace std ;
 int main(){ 
      
      // no  positive 
-    int num = 10;
+    int num ; // declare
+
+
+    cout<< "Enter the value of num : ";
+    cin>>num ; // value assign : if first time = initilization , assign
 
     if(num > 0)
     {
@@ -53,12 +57,6 @@ int main(){
      */
 
 
-
-
-
-
-
-
     /*
         line 20 
         line 23 num = -423
@@ -67,7 +65,5 @@ int main(){
         line 35 num == 0 true;
         line 37 no. is neutral
     */
-
-
 
 }

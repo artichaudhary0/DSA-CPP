@@ -69,8 +69,6 @@ int main(){
         }else{
             // statement
         }
-    
-    
      */
 
     int age = 119; 
@@ -122,13 +120,6 @@ int main(){
     line 98 : P("not ele for vote") 
     exit
     */
-
-
-
-
-
-
-
 
 
 
